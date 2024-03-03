@@ -1,0 +1,10 @@
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\bin\Debug\TP_MOD_03_1302223083_AaronJoseph.exe.config
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\bin\Debug\TP_MOD_03_1302223083_AaronJoseph.exe
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\bin\Debug\TP_MOD_03_1302223083_AaronJoseph.pdb
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\obj\Debug\TP_MOD_03_1302223083_AaronJoseph.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\obj\Debug\TP_MOD_03_1302223083_AaronJoseph.Form1.resources
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\obj\Debug\TP_MOD_03_1302223083_AaronJoseph.Properties.Resources.resources
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\obj\Debug\TP_MOD_03_1302223083_AaronJoseph.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\obj\Debug\TP_MOD_03_1302223083_AaronJoseph.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\obj\Debug\TP_MOD_03_1302223083_AaronJoseph.exe
+C:\Users\Aaron\source\repos\tpmodul3_1302223083\TP_MOD_03_1302223083_AaronJoseph\obj\Debug\TP_MOD_03_1302223083_AaronJoseph.pdb
